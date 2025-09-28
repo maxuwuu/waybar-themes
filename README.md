@@ -7,3 +7,5 @@
 ![image](https://github.com/maxuwuu/waybar-themes/blob/main/assets/3.png)
 # 4 
 ![image](https://github.com/maxuwuu/waybar-themes/blob/main/assets/4.png)
+# 5
+![image](https://github.com/maxuwuu/waybar-themes/blob/main/assets/5.png)
